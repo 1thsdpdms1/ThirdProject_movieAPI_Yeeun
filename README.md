@@ -1,4 +1,4 @@
-![image](https://github.com/1thsdpdms1/ThirdProject_movieAPI_Yeeun/assets/154856610/a9bc0029-1158-4190-b065-43f06c53e9f9)# 🎬MovieAPI_GroupAirTeamProject2🎬
+🎬MovieAPI_GroupAirTeamProject2🎬
 
 <div style="text-align: center;">
 
