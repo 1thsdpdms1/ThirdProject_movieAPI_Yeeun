@@ -2,6 +2,8 @@
 
 <div style="text-align: center;">
 
+![image](https://github.com/1thsdpdms1/ThirdProject_movieAPI_Yeeun/assets/154856610/5d6b7476-d1c6-4fde-aa29-c2a970cdff47)
+
 <br>
 기존 2차 프로젝트였던 항공사 관리 페이지에 영화 오픈 API를 더해 보았습니다 <br>
 컨셉과 잘 어우러지지 않아 새창열기로 다른공간으로 이동한 듯한 느낌을 주었고<br>
