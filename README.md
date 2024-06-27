@@ -110,9 +110,8 @@
 
 </details>
 <br>
-
-
 <br>
+
 ## ⭐프로젝트 시안
 
 ![image](https://github.com/1thsdpdms1/ThirdProject_movieAPI_Yeeun/assets/154856610/c80b3154-74a5-4225-97ef-86ddee97b3cd)
